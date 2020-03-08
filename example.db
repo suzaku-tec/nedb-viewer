@@ -1,0 +1,2 @@
+{"someString":"hello, world","someNumber":37,"someDate":{"$$date":1583643703944},"someArray":[1,2,3],"someObject":{"key":"value"},"_id":"3e8gJ3mWdCrFs5q6"}
+{"someString":"hello, world","someNumber":37,"someDate":{"$$date":1583644754688},"someArray":[1,2,3],"someObject":{"key":"value"},"_id":"hu4LjHAIUwgTKZyA"}
