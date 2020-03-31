@@ -10,7 +10,7 @@ ipcRenderer.on("open_file", (event, tabledata) => {
     if (key.startsWith("_")) {
       return { title: key, field: key, visible: false };
     } else {
-      return { title: key, field: key, visible: true };
+      return { title: key, field: key, visible: true, headerFilter: true };
     }
   });
 
